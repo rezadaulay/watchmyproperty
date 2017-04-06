@@ -15,6 +15,7 @@ Before run make sure your pc have [composer](https://getcomposer.org/) and [node
 - run `php artisan db:seed`
 - run `npm install`
 - setup app config in `resources/assets/js/config.js`
+- run `gulp` or `gulp watch`
 
-**Its not perfect and i will ke update it**
+**Its not perfect and i will kep update it**
 
